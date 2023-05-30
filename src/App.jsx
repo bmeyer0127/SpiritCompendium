@@ -28,6 +28,13 @@ function App() {
               spiritName={spirit.spiritName}
               typeOfSpirit={spirit.typeOfSpirit}
               distillery={spirit.distillery}
+              proof={spirit.proof}
+              nose={spirit.nose}
+              palate={spirit.palate}
+              finish={spirit.finish}
+              cocktailName={spirit.cocktailName}
+              cocktail={spirit.cocktail}
+              cocktailDescription={spirit.cocktailDescription}
               story={spirit.story}
             />
           );
