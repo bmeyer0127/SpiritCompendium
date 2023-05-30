@@ -1,6 +1,11 @@
 import Modal from "react-bootstrap/Modal";
 import { useState } from "react";
 
+const Specs = (props) => {
+  const items = props.cocktail.map((spec) => <li>{spec}</li>);
+  return <ul>{items}</ul>;
+};
+
 function SpiritCard(props) {
   const [show, setShow] = useState(false);
   const handleClose = () => setShow(!show);
@@ -25,9 +30,29 @@ function SpiritCard(props) {
         <Modal.Body>
           {
             <div>
-              <h3 className="fs-6">{props.typeOfSpirit}</h3>
-              <h3 className="fs-6">{props.distillery}</h3>
-              <p className="fs-6">{props.story}</p>
+              <div className="p-2 rounded border-secondary-subtle border-bottom border-start">
+                <h3 className="fs-6 mt-2 mb-3">
+                  This is a {props.typeOfSpirit}
+                </h3>
+                <h3 className="fs-6 mt-2 mb-3">
+                  Distilled by {props.distillery} distillery
+                </h3>
+                <h3 className="fs-6 mt-2 mb-3">
+                  Bottled at {props.proof} proof
+                </h3>
+              </div>
+              <div className="p-2 rounded border-secondary-subtle border-bottom border-start">
+                <h4 className="fs-6 mt-2 mb-3">Nose: {props.nose}</h4>
+                <h4 className="fs-6 mt-2 mb-3">Palate: {props.palate}</h4>
+                <h4 className="fs-6 mt-2 mb-3">Finish: {props.finish}</h4>
+              </div>
+              <div className="p-2 rounded border-secondary-subtle border-bottom border-start">
+                <h3 className="fs-6 mt-2 mb-3">Solid Cocktail:</h3>
+                <h4 className="fs-6 mt-2 mb-3">The {props.cocktailName}:</h4>
+                <Specs cocktail={props.cocktail} />
+                <h4 className="fs-6 mt-2 mb-3">{props.cocktailDescription}</h4>
+              </div>
+              <p className="fs-6 mt-2 mb-3 p-2">{props.story}</p>
             </div>
           }
         </Modal.Body>
