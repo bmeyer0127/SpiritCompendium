@@ -70,11 +70,21 @@
     "distillery": "Unclear?",
     "proof": "81",
     "nose": "A bit of ethonol quickly subsided by a green apple orchard",
-    "palate": "Not much heat but ",
-    "finish": "",
-    "cocktailName": "",
-    "cocktail": [""],
-    "cocktailDescription": "",
-    "story": ""
+    "palate": "Crispy green apples and a smooth transition to a little cardamom",
+    "finish": "Quickly fleeting primary flavors as it washes into a spicier flavor",
+    "cocktailName": "Pisco Sour",
+    "cocktail": [
+      "2dsh orange bitters",
+      ".5oz lime",
+      ".5oz lemon",
+      ".75oz simple syrup",
+      "2oz pisco",
+      "Egg white",
+      "Whip-doubleback",
+      "Coupe glass",
+      "Drops of Ango"
+    ],
+    "cocktailDescription": "This is a classic cocktail that everyone knows and never disappoints. Its simple elegance is something that brings on an intense craving every so often and will *not* stop until you have one.",
+    "story": "Suyo No. 1 is a Peruvian pisco made 100% from Quebranta grapes. This grape is a descendant of the very grape that was initially used for pisco distillation. The original was a dark, black grape brought by the Spanish. However, after generations of adapting to the rough, rocky terrain of Peru, the flavor changed dramatically and became known as the Quebranta grape. Quebranta, coming from quebrar, the Spanish term for ‘broken’ or ‘tamed.’ Quebranta piscos are considered ‘non-aromatic’ but that is more of an attempt at classification rather than a true descriptor. Of course they still have a distinct aroma, simply less so than other counterparts, like the Italia variety. The grapes that make this pisco are picked, and then allowed to ferment for 2-3 weeks and are then single distilled in a copper still. Suyo pisco started off as a project shared between two Peruvian-American partners, Alex Hildebrandt and Ian Legget. The story goes that they were on the search for new piscos that could become their new favorites, but were disappointed at the extreme scarcity of choices in the American market. A few steps later, Suyo was born and prides itself in sourcing from family-owned vineyards. Pisco in and of itself is an extremely interesting subject. It is a spirit that can be made in Peru or Chile and both tend to serve in their own rite. Peruvian piscos must fit into a tinier box than Chilean pisco. For example, pisco from Peru can be made from one of only 8 different varieties of grapes, whereas piscos in Chile have 13 different choices. Chile also allows barrel age, where Peru does not and instead requires a rest in a non-reactive cask, think glass instead of the more common wooden. Another major distinction is that Peru is required to only export single distilled piscos, whereas in Chile, you can distill it to the point where it is basically a vodka if you’d like to. It is far from anyone to say which country produces the best or most widely enjoyed piscos as both produce a product that hits their intended mark."
   }
 ]

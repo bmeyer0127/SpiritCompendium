@@ -23,7 +23,7 @@ function SpiritCard(props) {
         <h4 className="fs-6">{props.distillery}</h4>
       </div>
       {/* Modal */}
-      <Modal show={show} onHide={handleClose}>
+      <Modal show={show} onHide={handleClose} scrollable={true}>
         <Modal.Header closeButton>
           <Modal.Title>{props.spiritName}</Modal.Title>
         </Modal.Header>
@@ -35,7 +35,7 @@ function SpiritCard(props) {
                   This is a {props.typeOfSpirit}
                 </h3>
                 <h3 className="fs-6 mt-2 mb-3">
-                  Distilled by {props.distillery} distillery
+                  Distilled by {props.distillery}
                 </h3>
                 <h3 className="fs-6 mt-2 mb-3">
                   Bottled at {props.proof} proof
