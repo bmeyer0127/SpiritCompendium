@@ -7,16 +7,17 @@
     "nose": "Honey and warm brown sugar, cedar, orange peel and tobacco flower. Spices of ground ginger and white pepper.",
     "palate": "Caramel balanced with spicy wood tannins. Notes of baking chocolate, cigar lead, cougar and cinnamon.",
     "finish": "Long and smooth. The cinnamon lingers with dark chocolate, oak tannins and maple syrup.",
-    "cocktailName": "Boulevardier",
+    "cocktailName": "Whiskey Smash",
     "cocktail": [
-      ".75oz sweet vermouth",
-      ".75oz Campari",
-      "1.5oz Uncle Nearest Rye",
-      "Stirred",
-      "Rocks glass with big rock",
-      "Orange peel"
+      "3 muddled lemon wedges",
+      ".75oz simple syrup",
+      "4 spanked mint leaves",
+      "2oz Uncle Nearest 1884",
+      "Shaken",
+      "Rocks glass with crushed ice",
+      "Mint bouquet"
     ],
-    "cocktailDescription": "The boulevardier tends to be one of my favorite whiskey cocktails and I could not describe how amazing it works with Uncle Nearest Rye. The flagship spicy bite from a rye gets quelled from the vermouth and rolls so well into the smooth, medicinal bitterness of the campari. The vanilla finish wraps it up nice and tidy, readying you for a second sip before you even realize you’ve swallowed. Play around with some bitters when making this. Add some personal flair.",
+    "cocktailDescription": "A whiskey cocktail for a sweaty day. The freshness of the mint paired with the minor bitter citrus of the lemon pith help calm down the pepper and spiciness of this whiskey while putting the honey and orange front and center.",
     "story": "Uncle Nearest tends to be one of our most talked about and touched bottles in our reservoir. The consensus seems to point out that it is an absolute favorite amongst our bartenders. The tall-standing quality is not the only reason though. The brand pays homage to the rich history of whiskey and while keeping the shadowed history of early America completely in sight. The brand itself is named after Nathan “Nearest” Green. Green was born into slavery in Maryland but was brought to Lincoln County, Tennessee in the 1850s. He was owned by a trading firm called Landis and Green who hired him out to a country preacher and distiller named Dan Call. This is believed to be the time Green learned how to distill and worked on his iterations of the Lincoln County Process, the process of running whiskey through a charcoal filter. Here is where Nathan Green and Jack Daniel met. Daniel was an 8 year old hired onto Call’s farm as a chore and errand boy. After a while, he began to show interest in the smoke billowing out of a stack on the property, the distillery. Call introduced Green by saying “This is Uncle Nearest. He’s the best whiskey maker I know of.” From there he began to teach Jack the process. After the end of the Civil War and the Emancipation Proclamation was signed. Nathan Green continued working on the Call farm as a “free man.” Eventually Jack Daniel would move to start his own distillery, but Green never went to work there. Many of Green’s children and grand-children did, though. Despite there being virtually no mention of Nathan Green in official Jack Daniels literature, he was undoubtedly pivotal in Daniel’s distilling career. In 2019 Victoria Eady Butler (a direct descendant of Nathan Green) was announced as Uncle Nearest’s master blender. Thus becoming the first known African-American female master whiskey blender."
   },
 
@@ -28,16 +29,17 @@
     "nose": "Subtle aromatics, floral top notes over caramel, vanilla and burnt toast",
     "palate": "It opens sweet-and-spicy with caramel, cocoa and pepper. Midpalate, notes of vanilla, almond and toasted oak emerge. By the back of the throat, vanilla, cocoa, white pepper and a soft tobacco bite evolve.",
     "finish": "Medium-to-short finish dominated by oak, vanilla and chocolate",
-    "cocktailName": "Boulevardier",
+    "cocktailName": "Perfect Manhattan",
     "cocktail": [
-      ".75oz sweet vermouth",
-      ".75oz Campari",
-      "1.5oz Uncle Nearest Rye",
+      "3dsh Angostura",
+      ".5oz sweet vermouth",
+      ".5oz dry vermouth",
+      "2oz Uncle Nearest 1856",
       "Stirred",
-      "Rocks glass with big rock",
-      "Orange peel"
+      "Coupe glass",
+      "Lemon peel and cherry"
     ],
-    "cocktailDescription": "The boulevardier tends to be one of my favorite whiskey cocktails and I could not describe how amazing it works with Uncle Nearest Rye. The flagship spicy bite from a rye gets quelled from the vermouth and rolls so well into the smooth, medicinal bitterness of the campari. The vanilla finish wraps it up nice and tidy, readying you for a second sip before you even realize you’ve swallowed. Play around with some bitters when making this. Add some personal flair.",
+    "cocktailDescription": "1856 is a spirit that you do not want to drown out in a fit of sweetners. I would never talk bad about a classic Manhattan, but the splitting of the sweet vermouth and addition of the dry helps give this whiskey a bit more to stand on. Get wild with the bitters, maybe even throw in a bit of absinthe in for the wicked. This should be a delicate cocktail for the curious.",
     "story": "Uncle Nearest tends to be one of our most talked about and touched bottles in our reservoir. The consensus seems to point out that it is an absolute favorite amongst our bartenders. The tall-standing quality is not the only reason though. The brand pays homage to the rich history of whiskey and while keeping the shadowed history of early America completely in sight. The brand itself is named after Nathan “Nearest” Green. Green was born into slavery in Maryland but was brought to Lincoln County, Tennessee in the 1850s. He was owned by a trading firm called Landis and Green who hired him out to a country preacher and distiller named Dan Call. This is believed to be the time Green learned how to distill and worked on his iterations of the Lincoln County Process, the process of running whiskey through a charcoal filter. Here is where Nathan Green and Jack Daniel met. Daniel was an 8 year old hired onto Call’s farm as a chore and errand boy. After a while, he began to show interest in the smoke billowing out of a stack on the property, the distillery. Call introduced Green by saying “This is Uncle Nearest. He’s the best whiskey maker I know of.” From there he began to teach Jack the process. After the end of the Civil War and the Emancipation Proclamation was signed. Nathan Green continued working on the Call farm as a “free man.” Eventually Jack Daniel would move to start his own distillery, but Green never went to work there. Many of Green’s children and grand-children did, though. Despite there being virtually no mention of Nathan Green in official Jack Daniels literature, he was undoubtedly pivotal in Daniel’s distilling career. In 2019 Victoria Eady Butler (a direct descendant of Nathan Green) was announced as Uncle Nearest’s master blender. Thus becoming the first known African-American female master whiskey blender."
   },
 
@@ -60,5 +62,575 @@
     ],
     "cocktailDescription": "The boulevardier tends to be one of my favorite whiskey cocktails and I could not describe how amazing it works with Uncle Nearest Rye. The flagship spicy bite from a rye gets quelled from the vermouth and rolls so well into the smooth, medicinal bitterness of the campari. The vanilla finish wraps it up nice and tidy, readying you for a second sip before you even realize you’ve swallowed. Play around with some bitters when making this. Add some personal flair.",
     "story": "Uncle Nearest tends to be one of our most talked about and touched bottles in our reservoir. The consensus seems to point out that it is an absolute favorite amongst our bartenders. The tall-standing quality is not the only reason though. The brand pays homage to the rich history of whiskey and while keeping the shadowed history of early America completely in sight. The brand itself is named after Nathan “Nearest” Green. Green was born into slavery in Maryland but was brought to Lincoln County, Tennessee in the 1850s. He was owned by a trading firm called Landis and Green who hired him out to a country preacher and distiller named Dan Call. This is believed to be the time Green learned how to distill and worked on his iterations of the Lincoln County Process, the process of running whiskey through a charcoal filter. Here is where Nathan Green and Jack Daniel met. Daniel was an 8 year old hired onto Call’s farm as a chore and errand boy. After a while, he began to show interest in the smoke billowing out of a stack on the property, the distillery. Call introduced Green by saying “This is Uncle Nearest. He’s the best whiskey maker I know of.” From there he began to teach Jack the process. After the end of the Civil War and the Emancipation Proclamation was signed. Nathan Green continued working on the Call farm as a “free man.” Eventually Jack Daniel would move to start his own distillery, but Green never went to work there. Many of Green’s children and grand-children did, though. Despite there being virtually no mention of Nathan Green in official Jack Daniels literature, he was undoubtedly pivotal in Daniel’s distilling career. In 2019 Victoria Eady Butler (a direct descendant of Nathan Green) was announced as Uncle Nearest’s master blender. Thus becoming the first known African-American female master whiskey blender."
+  },
+
+  {
+    "spiritName": "Suyo No. 1",
+    "typeOfSpirit": "Pisco",
+    "distillery": "Unclear?",
+    "proof": "81",
+    "nose": "A bit of ethonol quickly subsided by a green apple orchard",
+    "palate": "Crispy green apples and a smooth transition to a little cardamom",
+    "finish": "Quickly fleeting primary flavors as it washes into a spicier flavor",
+    "cocktailName": "Pisco Sour",
+    "cocktail": [
+      "2dsh orange bitters",
+      ".5oz lime",
+      ".5oz lemon",
+      ".75oz simple syrup",
+      "2oz pisco",
+      "Egg white",
+      "Whip-doubleback",
+      "Coupe glass",
+      "Drops of Ango"
+    ],
+    "cocktailDescription": "This is a classic cocktail that everyone knows and never disappoints. Its simple elegance is something that brings on an intense craving every so often and will *not* stop until you have one.",
+    "story": "Suyo No. 1 is a Peruvian pisco made 100% from Quebranta grapes. This grape is a descendant of the very grape that was initially used for pisco distillation. The original was a dark, black grape brought by the Spanish. However, after generations of adapting to the rough, rocky terrain of Peru, the flavor changed dramatically and became known as the Quebranta grape. Quebranta, coming from quebrar, the Spanish term for ‘broken’ or ‘tamed.’ Quebranta piscos are considered ‘non-aromatic’ but that is more of an attempt at classification rather than a true descriptor. Of course they still have a distinct aroma, simply less so than other counterparts, like the Italia variety. The grapes that make this pisco are picked, and then allowed to ferment for 2-3 weeks and are then single distilled in a copper still. Suyo pisco started off as a project shared between two Peruvian-American partners, Alex Hildebrandt and Ian Legget. The story goes that they were on the search for new piscos that could become their new favorites, but were disappointed at the extreme scarcity of choices in the American market. A few steps later, Suyo was born and prides itself in sourcing from family-owned vineyards. Pisco in and of itself is an extremely interesting subject. It is a spirit that can be made in Peru or Chile and both tend to serve in their own rite. Peruvian piscos must fit into a tinier box than Chilean pisco. For example, pisco from Peru can be made from one of only 8 different varieties of grapes, whereas piscos in Chile have 13 different choices. Chile also allows barrel age, where Peru does not and instead requires a rest in a non-reactive cask, think glass instead of the more common wooden. Another major distinction is that Peru is required to only export single distilled piscos, whereas in Chile, you can distill it to the point where it is basically a vodka if you’d like to. It is far from anyone to say which country produces the best or most widely enjoyed piscos as both produce a product that hits their intended mark."
+  },
+
+  {
+    "spiritName": "Laphroig 10 Year",
+    "typeOfSpirit": "Scotch",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Ardbeg",
+    "typeOfSpirit": "Scotch",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Glenfiddich 12 Year",
+    "typeOfSpirit": "Scotch",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Glenlivet 12 Year",
+    "typeOfSpirit": "Scotch",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Glenmorangie 10 Year",
+    "typeOfSpirit": "Scotch",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Johnnie Walker Red Label",
+    "typeOfSpirit": "Scotch",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Balvenie Doublewood 12 Year",
+    "typeOfSpirit": "Scotch",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Monkey Shoulder",
+    "typeOfSpirit": "Scotch",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Nikka from the Barrel",
+    "typeOfSpirit": "Japanese Whisky",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Toki",
+    "typeOfSpirit": "Japanese Whisky",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Akashi",
+    "typeOfSpirit": "Japanese Whisky",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Connemara",
+    "typeOfSpirit": "Irish Whiskey",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Silkie Dark",
+    "typeOfSpirit": "Irish Whiskey",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Silkie Blue",
+    "typeOfSpirit": "Irish Whiskey",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Powers",
+    "typeOfSpirit": "Irish Whiskey",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Lot 40",
+    "typeOfSpirit": "Canadian Whisky",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Keeper's Heart",
+    "typeOfSpirit": "American Whiskey",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Lip Service",
+    "typeOfSpirit": "Rye Whiskey",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Second Glance",
+    "typeOfSpirit": "American Whiskey",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Burning Chair",
+    "typeOfSpirit": "Bourbon",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "High West Double Rye",
+    "typeOfSpirit": "Double Rye",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "New Riff Balboa",
+    "typeOfSpirit": "Rye",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "New Riff 6 Year Malted",
+    "typeOfSpirit": "Rye",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Basil Haden Dark Rye",
+    "typeOfSpirit": "Rye",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Basil Haden Bourbon",
+    "typeOfSpirit": "Bourbon",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Angel's Envy Rye",
+    "typeOfSpirit": "Rye",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Angel's Envy Bourbon",
+    "typeOfSpirit": "Bourbon",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Woodford",
+    "typeOfSpirit": "Bourbon",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Four Roses Single Barrel",
+    "typeOfSpirit": "Bourbon",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Maker's Mark Cask",
+    "typeOfSpirit": "Bourbon",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Pinhook Bourbon",
+    "typeOfSpirit": "Bourbon",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Pinhook Rye",
+    "typeOfSpirit": "Rye",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Patron Silver",
+    "typeOfSpirit": "Tequila",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Patron Reposado",
+    "typeOfSpirit": "Tequila",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "Patron Anejo",
+    "typeOfSpirit": "Tequila",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "G4 Silver",
+    "typeOfSpirit": "Tequila",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "G4 Reposado",
+    "typeOfSpirit": "Tequila",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "G4 Anejo",
+    "typeOfSpirit": "Tequila",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
+  },
+
+  {
+    "spiritName": "",
+    "typeOfSpirit": "",
+    "distillery": "",
+    "proof": "",
+    "nose": "",
+    "palate": "",
+    "finish": "",
+    "cocktailName": "",
+    "cocktail": [""],
+    "cocktailDescription": "",
+    "story": ""
   }
 ]
